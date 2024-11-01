@@ -22,8 +22,8 @@
 
 .container__imagem {
     padding: 1em;
-    max-width: 32px;
-    max-height: 32px;
+    max-width: 64px;
+    max-height: 64px;
 }
 
 .lista-menu {
@@ -44,7 +44,7 @@
 }
 
 .lista-menu__titulo {
-    color: var(--laranja);
+    color: var(--roxo);
     font-weight: 700;
 }
 
